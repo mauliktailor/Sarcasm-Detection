@@ -1,4 +1,4 @@
-# Tokenization-and-Stop-Word-Removal-NLP
+# Tokenization and Stop-Word Removal-NLP
 
 In this repository, I have performed the basic preprocessing task on any text dataset.
 
